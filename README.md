@@ -17,5 +17,10 @@ This project is for replicating the interface of Kakao clone application. I'm go
 - cursor : pointer;
 - box-sizing: border-box;
 - position : relative ; -> position : absolute;
+- align-self: flex-start;
+- align-items: flex-start;
+- ref : ui gradients
 
 ### ANIMATIONS
+
+- ~ : select siblings
