@@ -24,3 +24,10 @@ This project is for replicating the interface of Kakao clone application. I'm go
 ### ANIMATIONS
 
 - ~ : select siblings
+
+### Done
+
+This project Published using gh-pages.
+https://chillinjae.github.io/Kakao-clone_v2/
+
+
